@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&width=435&lines=Hello,+I'm+Jatin!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&width=435&lines=Hello,+Visitor!+👋)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="data science animation" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
   
-**I am a data science enthusiast currently pursuing my MCA from Amity University, Noida. I love working on data analysis and machine learning projects. My goal is to extract insights from raw data using tools like Python(Numpy,pandas,matplotlib,seaborn),SQL,Tableau,Power BI, and create impactful visualizations with Tableau and Power BI.🚀**
+**I am a data science enthusiast currently pursuing my MCA from Amity University, Noida. I love working on data analysis and machine learning projects. My goal is to extract insights from raw data using tools like Python(along with its libraries),SQL and create impactful visualizations with Tableau and Power BI.🚀**
 
 </p>
 
