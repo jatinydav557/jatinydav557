@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D8BFD8&width=435&lines=Hi+there,+I'm+Jatin+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=D8BFD8&width=435&lines=Hi+there,+I'm+Jatin+👋)](https://git.io/typing-svg)
 
 
 
 <p align="left">
   
-**I am a data science enthusiast currently pursuing my MCA from Amity University, Noida. I love working on data analysis and machine learning projects. My goal is to extract insights from raw data using tools like Python(along with its libraries),SQL and create impactful visualizations with Tableau and Power BI.🚀**
+**I am a data enthusiast currently pursuing my MCA from Amity University, Noida. I do like working on data analysis and machine learning projects.After getting an opportunity to work on real world data analysis projects using the analysis tools and further deep dive into the world of data science was the path that i envisioned in the start🚀**
 
 </p>
 
@@ -15,20 +15,20 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="35" height="35" /> About Me:
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D8BFD8&width=435&lines=Currently+emphasizing+on!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=D8BFD8&width=435&lines=Currently+emphasizing+on!)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="data science animation" min-width="300px" max-width="300px" width="400px" align="right">
 - 🧑‍💻 Machine Learning algorithms
 
 - 📊 Data Visualization using python libraries and tools
   
-- 🧑‍💻 Predictive Modeling
+- 🧑‍💻 Predictive Modeling and problem solving
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D8BFD8&width=435&lines=Leisure+activities!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=D8BFD8&width=435&lines=Leisure+activities!!)](https://git.io/typing-svg)
 
 - 🎾 Working out
-- 🎥 Watching crime,horror,scifi 
-- 📚 Studying data science
+- 🎥 Watching horror stuff
+- 📚 Reading crime novels
 
 ---
 
@@ -49,18 +49,20 @@
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="35" height="35" /> Contact Me:
+# <img src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsb2ZmaWNlMTFfY2xvc2VfdXBfb2ZfYV9rcmFmdF9wYXBlcl9lbnZlbG9wZV9tb2NrdXBfaXNvbF80ZWUyZGQyNy01OGFiLTQzZDEtOGE3My0xZWQ3OTA0N2U1ZDIucG5n.png" alt="Envelope" width="35" height="35" /> Contact Me:
 
 <p>
   Let's work together! I'm always open to opportunities and eager to work on exciting real world data projects.  
 </p>
 
 <a href="mailto:jatinydav557@gmail.com">
- <img align="left" alt="Gmail" width="130" height="40" src="https://img.shields.io/badge/-Gmail-FF69B4?style=flat-square&logo=gmail&logoColor=white&link=mailto:jatinydav557@gmail.com"/>
+ <img align="left" alt="Gmail" width="100" height="35" src="https://img.shields.io/badge/-Gmail-4285F4?style=flat-square&logo=gmail&logoColor=white&link=mailto:jatinydav557@gmail.com"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/jatin-yadav-52783527a/">
-  <img align="left" alt="LinkedIn" width="150" height="40" src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" />
+  <img align="left" alt="LinkedIn" width=100" height="35" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+
 </a>
 
 ---
