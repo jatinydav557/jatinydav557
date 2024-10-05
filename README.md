@@ -16,8 +16,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=D8BFD8&width=435&lines=Currently+emphasizing+on!)](https://git.io/typing-svg)
-
-
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="data science animation" min-width="300px" max-width="300px" width="400px" align="right">
 
 - 🧑‍💻 Machine Learning algorithms
