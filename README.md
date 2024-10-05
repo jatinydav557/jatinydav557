@@ -15,10 +15,10 @@
 ## 🛠 Technologies & Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,postgresql,tableau,powerbi,excel" alt="Tech Stack Icons" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,postgresql,seaborn,tableau,vim" />
+  </a>
 </p>
-
----
 
 ## 📊 Projects & Experience
 
