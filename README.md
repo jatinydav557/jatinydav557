@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&width=435&lines=Hello,+Visitor!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&width=435&lines=Hi+there,+I'm+Jatin+👋)](https://git.io/typing-svg)
 
 
 
@@ -14,9 +14,9 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="35" height="35" /> About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi+there,+I'm+Jatin;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-### - Currently learning and working on:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&width=435&lines=Currently+emphasizing+on!)](https://git.io/typing-svg)
+
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="data science animation" min-width="300px" max-width="300px" width="400px" align="right">
 - 🧑‍💻 Machine Learning algorithms
 
@@ -24,7 +24,7 @@
   
 - 🧑‍💻 Predictive Modeling
 
-### - Hobbies:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&width=435&lines=Hobbies!)](https://git.io/typing-svg)
 
 - 🎾 Working out
 - 🎥 Watching crime,horror,scifi 
