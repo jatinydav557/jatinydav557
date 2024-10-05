@@ -52,7 +52,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="35" height="35" /> Contact Me:
 
 <p>
-  Let's work together! I'm always open to opportunities and work on exciting real world data projects.  
+  Let's work together! I'm always open to opportunities and eager to work on exciting real world data projects.  
 </p>
 
 <a href="mailto:jatinydav557@gmail.com">
@@ -65,8 +65,4 @@
 
 ---
 
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jatin-Yadav&theme=transparent&exclude_days=Sun&background=45%2C000000%2C121829&border=EBEBEB&dates=79EAEB&currStreakNum=6F3EFF" alt="GitHub Streak" /></a>
-</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
