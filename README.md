@@ -28,7 +28,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=D8BFD8&width=435&lines=Leisure+activities!!)](https://git.io/typing-svg)
 
 - 🎾 Working out
-- 🎥 Watching horror stuff
 - 📚 Reading crime novels
 
 ---
