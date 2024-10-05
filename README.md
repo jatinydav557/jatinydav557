@@ -79,3 +79,9 @@ Currently learning and applying **machine learning** algorithms to solve problem
 **Let's connect and work together!**
 
 ![Internship](https://media.giphy.com/media/3o7TKsQ7vcyF5pG4lK/giphy.gif)
+
+---
+
+## 🐍 Watch the Snake Eating My Contributions!
+![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
+
