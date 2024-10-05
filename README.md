@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&width=435&lines=Hello,+Visitor!+👋)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="data science animation" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 <p align="left">
   
@@ -17,9 +17,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi+there,+I'm+Jatin;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ### - Currently learning and working on:
-
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="data science animation" min-width="300px" max-width="300px" width="400px" align="right">
 - 🧑‍💻 Machine Learning algorithms
+
 - 📊 Data Visualization using python libraries and tools
+  
 - 🧑‍💻 Predictive Modeling
 
 ### - Hobbies:
@@ -30,10 +32,19 @@
 
 ---
 
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> Technologies & Tools I Use:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,postgresql,tableau,powerbi,excel" />
+    <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+    <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /></a>
+    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+    <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-003b5c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /></a>
+    <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-ffb3d6?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" /></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+    <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
+    <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /></a>
 </p>
 
 ---
@@ -41,7 +52,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="35" height="35" /> Contact Me:
 
 <p>
-  Let's work together! I'm always open to collaboration on exciting data projects.  
+  Let's work together! I'm always open to opportunities and work on exciting real world data projects.  
 </p>
 
 <a href="mailto:jatinydav557@gmail.com">
