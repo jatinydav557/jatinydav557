@@ -14,11 +14,9 @@
 
 ## 🛠 Technologies & Tools I Use
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,postgresql,seaborn,tableau,vim" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,postgresql,tableau,powerbi,excel)](https://skillicons.dev)
+
+---
 
 ## 📊 Projects & Experience
 
