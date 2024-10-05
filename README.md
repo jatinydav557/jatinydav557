@@ -12,10 +12,11 @@
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="35" height="35" /> About Me:
+# <img src="https://png.pngtree.com/png-vector/20240724/ourmid/pngtree-user-about-me-png-image_12800558.png" alt="Face in Clouds" width="35" height="35" /> About Me:
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=D8BFD8&width=435&lines=Currently+emphasizing+on!)](https://git.io/typing-svg)
+
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="data science animation" min-width="300px" max-width="300px" width="400px" align="right">
 
 - 🧑‍💻 Machine Learning algorithms
@@ -33,7 +34,7 @@
 ---
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> Technologies & Tools I Use:
+## <img src="https://static.vecteezy.com/system/resources/previews/036/584/129/non_2x/3d-illustration-of-software-development-free-png.png" alt="Hammer and Wrench" width="35" height="35" /> Technologies & Tools I Use:
 
 <p align="center">
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
@@ -49,7 +50,7 @@
 
 ---
 
-# <img src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsb2ZmaWNlMTFfY2xvc2VfdXBfb2ZfYV9rcmFmdF9wYXBlcl9lbnZlbG9wZV9tb2NrdXBfaXNvbF80ZWUyZGQyNy01OGFiLTQzZDEtOGE3My0xZWQ3OTA0N2U1ZDIucG5n.png" alt="Envelope" width="35" height="35" /> Contact Me:
+# <img src="https://png.pngtree.com/png-vector/20230918/ourmid/pngtree-closed-white-envelope-png-image_10124421.png" alt="Envelope" width="30" height="25" /> Contact Me:
 
 <p>
   Let's work together! I'm always open to opportunities and eager to work on exciting real world data projects.  
