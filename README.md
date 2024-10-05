@@ -6,7 +6,7 @@
 
 <p align="left">
   
-**I am a data science enthusiast currently pursuing my MCA from Amity University, Noida. I love working on data analysis and machine learning projects. My goal is to extract insights from raw data using tools like Python, SQL, and create impactful visualizations with Tableau and Power BI. Let's collaborate to build something amazing together! 🚀**
+**I am a data science enthusiast currently pursuing my MCA from Amity University, Noida. I love working on data analysis and machine learning projects. My goal is to extract insights from raw data using tools like Python(Numpy,pandas,matplotlib,seaborn),SQL,Tableau,Power BI, and create impactful visualizations with Tableau and Power BI.🚀**
 
 </p>
 
@@ -19,15 +19,14 @@
 ### - Currently learning and working on:
 
 - 🧑‍💻 Machine Learning algorithms
-- 📊 Data Visualization
+- 📊 Data Visualization using python libraries and tools
 - 🧑‍💻 Predictive Modeling
 
 ### - Hobbies:
 
 - 🎾 Working out
-- 🎥 Watching crime documentaries
-- 📚 Reading about data trends
-- 🔍 Finding patterns in data!
+- 🎥 Watching crime,horror,scifi 
+- 📚 Studying data science
 
 ---
 
