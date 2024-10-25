@@ -22,14 +22,37 @@
 ## <img src="https://static.vecteezy.com/system/resources/previews/036/584/129/non_2x/3d-illustration-of-software-development-free-png.png" alt="Hammer and Wrench" width="35" height="35" /> Technologies & Tools:
 
 <p align="center">
-    <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-    <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /></a>
-    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
-    <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-003b5c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /></a>
-    <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-ffb3d6?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" /></a>
-    <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-    <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /></a>
+    <h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+        <img src="https://image.similarpng.com/very-thumbnail/2021/09/Microsoft-Excel-icon-design-on-transparent-background-PNG.png" alt="excel" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/color/512/tableau-software.png" alt="tableau" width="40" height="40"/> 
+    </a> 
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+    </a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    </a> 
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
+    </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+    </a>
+</p>
+
 </p>
 
 # <img src="https://png.pngtree.com/png-vector/20230918/ourmid/pngtree-closed-white-envelope-png-image_10124421.png" alt="Envelope" width="30" height="25" /> Contact Me:
@@ -39,9 +62,8 @@
 </p>
 
 <a href="mailto:jatinydav557@gmail.com">
- <img align="left" alt="Gmail" width="100" height="35" src="https://img.shields.io/badge/-Gmail-4285F4?style=flat-square&logo=gmail&logoColor=white&link=mailto:jatinydav557@gmail.com"/>
+ <img align="left" alt="Gmail" width="40" height="35" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--mail-email-logos-icons-2416660.png?f=webp"/>
 </a>
-
 <a href="https://www.linkedin.com/in/jatin-yadav-52783527a/">
-  <img align="left" alt="LinkedIn" width="100" height="35" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <img align="left" alt="LinkedIn" width="100" height="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
