@@ -29,7 +29,7 @@
 
 ---
 
-## <img src="https://static.vecteezy.com/system/resources/previews/036/584/129/non_2x/3d-illustration-of-software-development-free-png.png" alt="Hammer and Wrench" width="35" height="35" /> Technologies & Tools I Use:
+## <img src="https://img.pikbest.com/wp/202348/big-data-visualization-futuristic-pink-background-digital-waves-dots-and-with-3d-rendering_9777779.jpg!sw800" alt="Hammer and Wrench" width="35" height="35" /> Technologies & Tools I Use:
 
 <p align="center">
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
