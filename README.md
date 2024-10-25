@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=FF69B4&width=435&lines=Currently+emphasizing+on!)](https://git.io/typing-svg)
 
-<img src="https://img.freepik.com/premium-photo/futuristic-interface-with-data-visualizations-graphs-maps_412311-18898.jpg" alt="data science animation" width="400px" align="right" style="margin: 0 20px 20px 0;">
+<img src="https://img.freepik.com/premium-photo/futuristic-interface-with-data-visualizations-graphs-maps_412311-18898.jpg" alt="data science animation" width="400px" align="right-top" style="margin: 0 20px 20px 0;">
 
 - 🧑‍💻 ML algorithms
 
