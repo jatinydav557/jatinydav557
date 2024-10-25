@@ -14,7 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=FF69B4&width=435&lines=Currently+emphasizing+on!)](https://git.io/typing-svg)
 
-<img src="https://img.pikbest.com/wp/202348/big-data-visualization-futuristic-pink-background-digital-waves-dots-and-with-3d-rendering_9777779.jpg!sw800" alt="data science animation" min-width="300px" max-width="300px" width="400px" align="right">
+<img src="https://okbinteractive.studio/assets/images/posts/como-ayuda-la-ia-en-la-visualizacion-de-datos-00.jpg" alt="data science animation" min-width="300px" max-width="300px" width="400px" align="right">
 
 - 🧑‍💻 Machine Learning algorithms
 
