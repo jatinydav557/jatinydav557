@@ -2,13 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=FF69B4&width=435&lines=Hi+there,+I'm+Jatin+👋)](https://git.io/typing-svg)
 
+
+
+# <img src="https://png.pngtree.com/png-vector/20240724/ourmid/pngtree-user-about-me-png-image_12800558.png" alt="Face in Clouds" width="35" height="35" /> About Me:
 <p align="left">
   
 **I’m passionate about uncovering insights and solving real-world problems using data analysis and machine learning techniques🔍. Skilled in data visualization, predictive modeling, and problem-solving, I continuously seek to enhance my expertise through hands-on projects and cutting-edge tools.**
 
 </p>
-
-# <img src="https://png.pngtree.com/png-vector/20240724/ourmid/pngtree-user-about-me-png-image_12800558.png" alt="Face in Clouds" width="35" height="35" /> About Me:
 
 <img src="https://okbinteractive.studio/assets/images/posts/como-ayuda-la-ia-en-la-visualizacion-de-datos-00.jpg" alt="data science animation" min-width="300px" max-width="300px" width="400px" align="right">
 
