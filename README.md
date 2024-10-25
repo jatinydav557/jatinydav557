@@ -16,16 +16,12 @@
 
 <img src="https://okbinteractive.studio/assets/images/posts/como-ayuda-la-ia-en-la-visualizacion-de-datos-00.jpg" alt="data science animation" min-width="300px" max-width="300px" width="400px" align="right">
 
-- 🧑‍💻 Machine Learning algorithms
+- 🧑‍💻 ML algorithms
 
-- 📊 Data Visualization using python libraries and tools
+- 📊 Tableau and visualization python libraries
   
-- 🧑‍💻 Predictive Modeling and problem solving
+- 🧑‍💻 Real world projects
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=FF69B4&width=435&lines=Leisure+activities!!)](https://git.io/typing-svg)
-
-- 🎾 Working out
-- 📚 Reading crime novels
 
 ---
 
