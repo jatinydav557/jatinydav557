@@ -1,8 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=FF69B4&width=435&lines=Hi+there,+I'm+Jatin+👋)](https://git.io/typing-svg)
-
-
 
 <p align="left">
   
@@ -14,8 +12,7 @@
 
 # <img src="https://png.pngtree.com/png-vector/20240724/ourmid/pngtree-user-about-me-png-image_12800558.png" alt="Face in Clouds" width="35" height="35" /> About Me:
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=9370DB8&width=435&lines=Currently+emphasizing+on!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=FF69B4&width=435&lines=Currently+emphasizing+on!)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="data science animation" min-width="300px" max-width="300px" width="400px" align="right">
 
@@ -25,13 +22,12 @@
   
 - 🧑‍💻 Predictive Modeling and problem solving
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=9370DB&width=435&lines=Leisure+activities!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=FF69B4&width=435&lines=Leisure+activities!!)](https://git.io/typing-svg)
 
 - 🎾 Working out
 - 📚 Reading crime novels
 
 ---
-
 
 ## <img src="https://static.vecteezy.com/system/resources/previews/036/584/129/non_2x/3d-illustration-of-software-development-free-png.png" alt="Hammer and Wrench" width="35" height="35" /> Technologies & Tools I Use:
 
@@ -57,14 +53,8 @@
 
 <a href="mailto:jatinydav557@gmail.com">
  <img align="left" alt="Gmail" width="100" height="35" src="https://img.shields.io/badge/-Gmail-4285F4?style=flat-square&logo=gmail&logoColor=white&link=mailto:jatinydav557@gmail.com"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/jatin-yadav-52783527a/">
-  <img align="left" alt="LinkedIn" width=100" height="35" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-
+  <img align="left" alt="LinkedIn" width="100" height="35" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-
----
-
-
