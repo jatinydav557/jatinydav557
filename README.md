@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=FF69B4&width=435&lines=Hi+there,+I'm+Jatin+👋)](https://git.io/typing-svg)
 
-
-
 # <img src="https://png.pngtree.com/png-vector/20240724/ourmid/pngtree-user-about-me-png-image_12800558.png" alt="Face in Clouds" width="35" height="35" /> About Me:
 <p align="left">
   
@@ -11,19 +9,17 @@
 
 </p>
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=FF69B4&width=435&lines=Currently+emphasizing+on!)](https://git.io/typing-svg)
-<img src="https://img.freepik.com/premium-photo/futuristic-interface-with-data-visualizations-graphs-maps_412311-18898.jpg" alt="data science animation" min-width="300px" max-width="300px" width="400px" align="right">
+
+<img src="https://img.freepik.com/premium-photo/futuristic-interface-with-data-visualizations-graphs-maps_412311-18898.jpg" alt="data science animation" width="400px" align="right" style="margin: 0 20px 20px 0;">
 
 - 🧑‍💻 ML algorithms
 
 - 📊 Tableau and visualization Python libraries
-  
+
 - 🧑‍💻 Real-world projects
 
-
-
-## <img src="https://static.vecteezy.com/system/resources/previews/036/584/129/non_2x/3d-illustration-of-software-development-free-png.png" alt="Hammer and Wrench" width="35" height="35" /> Technologies & Tools :
+## <img src="https://static.vecteezy.com/system/resources/previews/036/584/129/non_2x/3d-illustration-of-software-development-free-png.png" alt="Hammer and Wrench" width="35" height="35" /> Technologies & Tools:
 
 <p align="center">
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
