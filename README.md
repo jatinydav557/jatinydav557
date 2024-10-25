@@ -4,11 +4,9 @@
 
 <p align="left">
   
-**I am a data enthusiast currently pursuing my MCA from Amity University, Noida. I do like working on data analysis and machine learning projects.After getting an opportunity to work on real world data analysis projects using the analysis tools and further deep dive into the world of data science was the path that i envisioned in the start🚀**
+**I’m passionate about uncovering insights and solving real-world problems using data analysis and machine learning techniques🔍. Skilled in data visualization, predictive modeling, and problem-solving, I continuously seek to enhance my expertise through hands-on projects and cutting-edge tools.**
 
 </p>
-
----
 
 # <img src="https://png.pngtree.com/png-vector/20240724/ourmid/pngtree-user-about-me-png-image_12800558.png" alt="Face in Clouds" width="35" height="35" /> About Me:
 
@@ -18,13 +16,11 @@
 
 - 🧑‍💻 ML algorithms
 
-- 📊 Tableau and visualization python libraries
+- 📊 Tableau and visualization Python libraries
   
-- 🧑‍💻 Real world projects
+- 🧑‍💻 Real-world projects
 
----
-
-## <img src="https://static.vecteezy.com/system/resources/previews/036/584/129/non_2x/3d-illustration-of-software-development-free-png.png" alt="Hammer and Wrench" width="35" height="35" /> Technologies & Tools I Use:
+## <img src="https://static.vecteezy.com/system/resources/previews/036/584/129/non_2x/3d-illustration-of-software-development-free-png.png" alt="Hammer and Wrench" width="35" height="35" /> Technologies & Tools :
 
 <p align="center">
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
@@ -34,16 +30,13 @@
     <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-ffb3d6?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" /></a>
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
     <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
-    <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /></a>
 </p>
-
----
 
 # <img src="https://png.pngtree.com/png-vector/20230918/ourmid/pngtree-closed-white-envelope-png-image_10124421.png" alt="Envelope" width="30" height="25" /> Contact Me:
 
 <p>
-  Let's work together! I'm always open to opportunities and eager to work on exciting real world data projects.  
+  Let's work together! I'm always open to opportunities and eager to work on exciting real-world data projects.  
 </p>
 
 <a href="mailto:jatinydav557@gmail.com">
