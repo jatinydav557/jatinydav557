@@ -9,14 +9,8 @@
 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=FF69B4&width=435&lines=Tableau+Public+Link!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=FF69B4&width=435&lines=Tableau+Public+Link!!!!)](https://public.tableau.com/app/profile/jatin.yadav2805/vizzes)
 <img src="https://img.freepik.com/premium-photo/futuristic-interface-with-data-visualizations-graphs-maps_412311-18898.jpg" alt="data science animation" width="400px" align="right-top" style="margin: 0 20px 20px 0;">
-
-- 🧑‍💻 ML algorithms
-
-- 📊 Tableau and visualization Python libraries
-
-- 🧑‍💻 Real-world projects
 
 ## <img src="https://static.vecteezy.com/system/resources/previews/036/584/129/non_2x/3d-illustration-of-software-development-free-png.png" alt="Hammer and Wrench" width="35" height="35" /> Technologies & Tools:
 
