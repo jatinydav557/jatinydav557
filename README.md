@@ -69,14 +69,16 @@ I'm currently **open to roles** in:
 
 ---
 
-## 🔗 Let’s Connect
+---
 
-| 🌐 Platform | Link |
-|------------|------|
-| 💼 LinkedIn | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
-| 📦 GitHub | [github.com/your-username](https://github.com/your-username) |
-| 📧 Email | your@email.com |
-| 📺 YouTube | [youtube.com/@yourchannel](https://youtube.com/@yourchannel) |
+## 📞 Contact for Hiring
+
+📧 Email: your.email@gmail.com  
+📱 Mobile: +91-XXXXXXXXXX  
+🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+🚀 Open to roles: AI/ML Developer | MLOps Engineer | Data Analyst | GenAI Engineer
+
 
 ---
 
