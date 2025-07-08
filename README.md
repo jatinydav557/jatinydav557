@@ -55,33 +55,20 @@ I'm currently **open to roles** in:
 `MongoDB Atlas` • `Redis`  
 `ETL Pipelines` • `Airflow (Astro)`
 
----
-
-## 📂 Featured Projects
-
-> 📌 *Here’s where I’ll showcase some of my favorite end-to-end AI, MLOps, and GenAI projects.*
-
-| Project | Tech Stack | Highlights |
-|--------|------------|------------|
-| 🧠 **Coming Soon** | - | - |
-| 🤖 **Coming Soon** | - | - |
-| 📊 **Coming Soon** | - | - |
-
----
 
 ---
 
 ## 📞 Contact for Hiring
 
-📧 Email: your.email@gmail.com  
-📱 Mobile: +91-XXXXXXXXXX  
+📧 Email: jatinydav557@gmail.com  
+📱 Mobile: +91-7340386035  
 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 🚀 Open to roles: AI/ML Developer | MLOps Engineer | Data Analyst | GenAI Engineer
 
 
 ---
-
+ 
 <p align="center">
   💬 <i>“Built with passion, refined with MLOps, deployed for the world.”</i>  
   <br/>
