@@ -62,7 +62,8 @@ I'm currently **open to roles** in:
 
 📧 Email: jatinydav557@gmail.com  
 📱 Mobile: +91-7340386035  
-🌐 Portfolio: [JatinYadav.com](portfolio-delta-topaz-21.vercel.app)
+🌐 Portfolio: [JatinYadav.com](https://portfolio-delta-topaz-21.vercel.app)
+
 
 🚀 Open to roles: AI/ML Developer | MLOps Engineer | Data Analyst | GenAI Engineer
 
