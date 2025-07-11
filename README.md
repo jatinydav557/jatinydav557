@@ -6,7 +6,8 @@
 
 ---
 
-## 💡 About Me
+## 💡 About Me -
+🌐 Portfolio: [JatinYadav.com](https://portfolio-delta-topaz-21.vercel.app)
 
 I'm a **hands-on AI/ML Developer** and **MLOps Engineer** passionate about building **real-world, production-ready AI systems**. I specialize in crafting **scalable ML pipelines**, **fine-tuning and deploying LLMs**, and creating **end-to-end solutions** that integrate **deep learning, NLP, and GenAI**.
 
@@ -62,7 +63,7 @@ I'm currently **open to roles** in:
 
 📧 Email: jatinydav557@gmail.com  
 📱 Mobile: +91-7340386035  
-🌐 Portfolio: [JatinYadav.com](https://portfolio-delta-topaz-21.vercel.app)
+
 
 
 🚀 Open to roles: AI/ML Developer | MLOps Engineer | Data Analyst | GenAI Engineer
