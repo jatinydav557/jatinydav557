@@ -33,41 +33,56 @@ I'm currently **open to roles** in:
 > 🧩 I love breaking down complex concepts and transforming them into scalable, maintainable, and explainable ML workflows.
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&width=435&lines=🛠️+Tech+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&width=435&lines=🛠️+Tech+Stack)](https://git.io/typing-svg)
 
-### 👨‍💻 Programming & Engineering
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&width=600&lines=Programming+and+Engineering)](https://git.io/typing-svg)
+
 `Python` • `OOP` • `Logging` • `Modular Coding` • `Exception Handling`
 
-### 📊 Data Analytics
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&width=600&lines=Data+Analytics)](https://git.io/typing-svg)
+
 `NumPy` • `Pandas` • `EDA` • `Matplotlib` • `Seaborn` • `Tableau` • `Power BI` • `Feature Engineering`
 
-### 🧠 Machine Learning & Deep Learning
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&width=600&lines=Machine+Learning+and+Deep+Learning)](https://git.io/typing-svg)
+
 `Scikit-learn` • `XGBoost` • `TensorFlow` • `Keras` • `PyTorch (CV + Transfer Learning)`  
 `ML Evaluation` • `Hyperparameter Tuning` • `Interpretability`
 
-### 💬 NLP & Transformers
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&width=600&lines=NLP+and+Transformers)](https://git.io/typing-svg)
+
 `TextBlob` • `Hugging Face` • `Encoder-Decoder` • `Sentiment Analysis` • `Summarization`  
 `LLM Fine-Tuning` • `Tokenizers` • `Evaluation`
 
-### 🤖 LLMs & Generative AI
-`LangChain` • `LangGraph` • `OpenAI API` • `Groq API` • `Together API`  
-`Prompt Engineering` • `RAG Pipelines` • `Agentic AI` • `LLMOps` • `Vector DBs (FAISS, Chroma, Pinecone, Astra DB)`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&width=600&lines=LLM's+and+Generative+AI)](https://git.io/typing-svg)
 
-### 🚀 MLOps & Deployment
+`LangChain` • `LangGraph` • `OpenAI API` • `Groq API` • `Together API`  
+`Prompt Engineering` • `RAG Pipelines` • `Agentic AI` • `LLMOps`  
+`Vector DBs (FAISS, Chroma, Pinecone, Astra DB)`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&width=600&lines=MLOps+and+Deployment)](https://git.io/typing-svg)
+
 `MLflow` • `DVC` • `Comet ML` • `TensorBoard`  
-`Docker` • `Kubernetes (Minikube, GKE)`  
-`CI/CD` (GitHub Actions, Jenkins, Argo CD)  
+`Docker` • `Kubernetes` • `Minikube` • `GKE`  
+`CI/CD` • `GitHub Actions` • `Jenkins` • `Argo CD`  
 `FastAPI` • `Flask` • `Streamlit`  
 `MongoDB Atlas` • `Redis`  
-`ETL Pipelines` • `Airflow (Astro)`
+`ETL Pipelines` • `Airflow` • `Astro`
+
 
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&width=435&lines=📞+Connect+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&width=435&lines=🙋+Connect+)](https://git.io/typing-svg)
 
-📧 Email: jatinydav557@gmail.com  
+<p align="left">
+  <a href="mailto:marianaoliveiry18@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF69B4?style=flat-square&labelColor=FF69B4&logo=gmail&logoColor=white&link=mailto:jatinydav557@gmail.com" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jatin557" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>  
+  
 📱 Mobile: +91-7340386035  
-             www.linkedin.com/in/jatin557
+             
 
 
 
