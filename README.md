@@ -1,8 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&width=435&lines=Hey+there!!+I'm++Jatin+Yadav+"🚀"+%F0%9F%91%8B)](https://git.io/typing-svg)
+<!-- Line 1: Name and greeting -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=6000&duration=1000&color=FF69B4&width=600&lines=Hey+there!+I'm+Jatin+Yadav+🚀)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&width=435&lines=AI+/+ML+Engineer;MLOps+Specialist;Generative+-+Agentic+AI+Engineer;Data+Scientist;Data+Analyst+%7C+Python+Developer)](https://git.io/typing-svg)
+<!-- Line 2: Fast role typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=800&pause=200&color=FF69B4&width=600&lines=AI+/+ML+Engineer;MLOps+Specialist;Data+Scientist;LLM+Engineer;NLP+Engineer;GCP%7C+AWS)](https://git.io/typing-svg)
+
 
 
 <a href="https://portfolio-delta-topaz-21.vercel.app" target="_blank">
@@ -64,6 +67,7 @@ I'm currently **open to roles** in:
 
 📧 Email: jatinydav557@gmail.com  
 📱 Mobile: +91-7340386035  
+             www.linkedin.com/in/jatin557
 
 
 
