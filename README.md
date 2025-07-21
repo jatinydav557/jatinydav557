@@ -72,18 +72,23 @@ I'm currently **open to roles** in:
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&width=435&lines=🙋+Connect+)](https://git.io/typing-svg)
+<p align="left">
+  <a href="mailto:jatinydav557@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/jatin557" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.youtube.com/@jatinML" title="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-FF69B4?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
 
 <p align="left">
-  <a href="mailto:marianaoliveiry18@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF69B4?style=flat-square&labelColor=FF69B4&logo=gmail&logoColor=white&link=mailto:jatinydav557@gmail.com" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jatin557" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>  
-  
-📱 Mobile: +91-7340386035  
-             
-
+  📱 <strong>Mobile:</strong> +91-7340386035
+</p>
 
 
 🚀 Open to roles: AI/ML Developer | MLOps Engineer | GenAI Engineer
@@ -91,7 +96,7 @@ I'm currently **open to roles** in:
 
  
 <p align="center">
-  💬 <i>“Built with passion, refined with MLOps, deployed for the world.”</i>  
+  💬 <i>“Built with passion, refined with GenAI and MLOps, deployed for the world.”</i>  
   <br/>
   <b>Let’s collaborate and bring ideas to life!</b>
 </p>
